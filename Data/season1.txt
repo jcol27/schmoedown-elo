@@ -1,0 +1,165 @@
+The 2014 Ultimate Schmoedown was the first inaugural Ultimate Schmoedown and was being held at the [https://www.youtube.com/user/schmoesknow?&ab_channel=schmoesknow Schmoes Know YouTube channel].  It featured 16 competitors in a 15 week long tournament. The tournament was for the Singles Championship Belt.
+==Contestants==
+
+* [[Grae Drake]]
+* [[Mark Ellis]]
+* [[Finstock]]
+* [[Cody Hall]]
+* [[Kristian Harloff]]
+* [[JTE]]
+* [[The Kid]]
+* [[Josh Macuga]]
+* [[Alicia Malone]]
+* [[Navid McIlhargey]]
+* [[Ken Napzok]]
+* [[Mark Reilly]]
+* [[Christian Ruvalcaba]]
+* [[Katee Sackhoff]]
+* [[Tiffany Smith]]
+* [[Bonnie Somerville]]
+
+==Matches==
+
+=== Prior to the Tournament ===
+{| class="article-table"
+!Date
+!Favorite
+!Underdog
+!Final Score
+!Winner
+|-
+|6/20/14
+|[[JTE]] (0-0)
+|[[Christian Ruvalcaba]] (0-0)
+|10-5
+|JTE
+|}
+
+===Eighth-finals===
+{| class="article-table"
+|-
+! scope="col"|Date
+! scope="col"|Favorite
+! scope="col"|Underdog
+! scope="col"|Final Score
+! scope="col"|Winner
+|-
+|7/10/14
+|[[Katee Sackhoff]] (0-0)
+|[[Ken Napzok]] (0-0)
+|2-11
+|Napzok
+|-
+|7/17/14
+|[[Mark Reilly]] (0-0)
+|[[Alicia Malone]] (0-0)
+|10-4
+|Reilly by KO
+|-
+|7/31/14
+|[[Josh Macuga]] (0-0)
+|[[Bonnie Somerville]] (0-0)
+|9-8
+|Macuga
+|-
+|8/7/14
+|[[Mark Ellis]] (0-0)
+|[[Christian Ruvalcaba]] (0-1)
+|4-0
+|Ellis
+|-
+|8/14/14
+|[[Grae Drake]] (0-0)
+|[[Navid McIlhargey]] (0-0)
+|2-1
+|Drake
+|-
+|8/21/14
+|[[Finstock]] (0-0)
+|[[Tiffany Smith]] (0-0)
+|6-0
+|Finstock
+|-
+|8/28/14
+|[[JTE]] (1-0)
+|[[The Kid]] (0-0)
+|9-8
+|JTE in SD
+|-
+|9/4/14
+|[[Kristian Harloff]] (0-0)
+|[[Cody Hall]] (0-0)
+|11-0
+|Harloff by KO
+|}
+===Quarterfinals===
+{| class="article-table"
+|-
+! scope="col" |Date
+! scope="col" |Favorite
+! scope="col" |Underdog
+! scope="col" |Final Score
+! scope="col" |Winner
+|-
+|9/11/14
+|[[Mark Reilly]] (1-0)
+|[[Grae Drake]] (1-0)
+|10-0
+|Reilly by KO
+|-
+|9/18/14
+|[[Mark Ellis]] (1-0)
+|[[JTE]] (2-0)
+|11-14
+|JTE
+|-
+|9/25/14
+|[[Kristian Harloff]] (1-0)
+|[[Finstock]] (1-0)
+|9-4
+|Harloff by KO
+|-
+|10/2/14
+|[[Josh Macuga]] (1-0)
+|[[Ken Napzok]] (1-0)
+|14-4
+|Macuga
+|}
+===Semifinals===
+{| class="article-table"
+|-
+! scope="col" |Date
+! scope="col" |Favorite
+! scope="col" |Underdog
+! scope="col" |Final Score
+! scope="col" |Winner
+|-
+|10/9/14
+|[[JTE]] (3-0)
+|[[Mark Reilly]] (2-0)
+|0-6
+|Reilly
+|-
+|10/16/14
+|[[Kristian Harloff]] (2-0)
+|[[Josh Macuga]] (2-0)
+|10-12
+|Macuga
+|}
+===Finals===
+{| class="article-table"
+|-
+! scope="col" |Date
+! scope="col" |Favorite
+! scope="col" |Underdog
+! scope="col" |Final Score
+! scope="col" |Winner
+|-
+|10/23/14
+|[[Mark Reilly]] (3-0)
+|[[Josh Macuga]] (3-0)
+|14-12
+|Reilly
+|}
+[[Category:Events]]
+[[Category:Tournaments]]
